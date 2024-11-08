@@ -1,0 +1,3 @@
+[submodule "hacknhbackend"]
+	path = hacknhbackend
+	url = https://github.com/z46-dev/hacknhbackend.git
