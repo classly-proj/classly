@@ -4,3 +4,6 @@
 [submodule "hacknhfrontend"]
 	path = hacknhfrontend
 	url = https://github.com/z46-dev/hacknhfrontend.git
+[submodule "classly-website"]
+	path = classly-website
+	url = https://github.com/classly-proj/classly-website.git
