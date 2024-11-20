@@ -1,9 +1,3 @@
-[submodule "classly-backend"]
-	path = classly-backend
-	url = https://github.com/classly-proj/classly-backend.git
-[submodule "classly-frontend"]
-	path = classly-frontend
-	url = https://github.com/classly-proj/classly-frontend.git
 [submodule "classly-website"]
 	path = classly-website
 	url = https://github.com/classly-proj/classly-website.git
